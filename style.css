@@ -69,12 +69,12 @@ h1{
 }
 #recipe-title{
     text-align: center;
-    /* height: 100%; */
+    
    
 }
 
 #pera{
-    /* height: 100%; */
+   
     width:50%;
     margin:0 auto;
     background-image: linear-gradient(tomato,red);
