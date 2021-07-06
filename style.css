@@ -9,13 +9,37 @@ h1{
     color: orangered;
 }
 
+
+
+.navbar{
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 15px;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 10px 15px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li a{
+    padding: 13px 23px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
+
+
+
 .flexible-container{
     display: flex;
     margin-bottom: 200px;
 }
 .half-width{
     width: 50%;
-    margin-top: 5%;
+    margin-top: 1%;
     padding-left: 3%;
     padding-right: 30px;
 
@@ -30,7 +54,7 @@ h1{
 }
 .link-button{
     text-decoration: 0;
-    background-image: linear-gradient(tomato,red);
+    background-image: linear-gradient(tomato,orangered);
     border-radius: 15px;
     padding: 10px 25px;
     color: white;
