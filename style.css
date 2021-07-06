@@ -72,6 +72,13 @@ h1{
     
    
 }
+.flexible-container div h2{
+    text-align: center;
+}
+
+.flexible-container div p{
+    text-align: justify;
+}
 
 #pera{
    
