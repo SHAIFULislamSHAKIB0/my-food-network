@@ -80,3 +80,17 @@ footer{
     width: 100%;
    
 }
+
+#complain-button{
+    text-decoration: 0;
+    background-image: linear-gradient(rgb(250, 3, 3),red);
+    border-radius: 15px;
+    padding: 15px 25px;
+    color: white;
+    font-weight: 600;
+    margin-left: 42%;
+   
+    
+    
+    
+}
